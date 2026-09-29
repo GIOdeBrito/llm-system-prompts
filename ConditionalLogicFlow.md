@@ -14,10 +14,6 @@ string input = get_user_input
 if json_is_valid(input) is true then
   print(input)
 else
-  string input_fixed = json_fix_broken(input)
-  
-  if json_is_valid(input_fixed) is true then
-    print(input_fixed)
-  else
-    print("Not a valid JSON")
+  string input_fixed = 
+  print(json_fix_broken(input) ?? "Not a valid JSON")
 ```
