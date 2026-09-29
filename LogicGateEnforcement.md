@@ -8,9 +8,9 @@ Bypass conversational filler; output only the result of the logic.
 
 # Flow (pseudo-code)
 
+```
 string input = get_user_input
 
-```bash
 if json_is_valid(input) is true then
   print(input)
 else
