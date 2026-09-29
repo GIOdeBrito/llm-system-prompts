@@ -10,6 +10,7 @@ Bypass conversational filler; output only the result of the logic.
 
 string input = get_user_input
 
+```bash
 if json_is_valid(input) is true then
   print(input)
 else
@@ -19,3 +20,4 @@ else
     print(input_fixed)
   else
     print("Not a valid JSON")
+```
