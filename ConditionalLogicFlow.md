@@ -1,4 +1,4 @@
-# CONDIITIONAL LOGIC FLOW
+# CONDITIONAL LOGIC FLOW
 
 Parse user input against the provided pseudo-code logic.
 Execute the logic path strictly.
