@@ -1,9 +1,10 @@
 # Document summarization
 ```
-Create a comprehensive document covering the core topics of the provided text.
-Retain all key data points, facts, and main arguments.
-Remove all conversational filler, redundancies, and tangential details.
-Use language that is accessible, clear, and direct.
+Extract the core topics, key data points, facts, and main arguments from the provided text.
+Format exclusively as bullet points.
+Use a clinical, strictly objective tone with zero adjectives, adverbs, or stylistic embellishments.
+Remove all redundancies and tangential details. Do not introduce or conclude the output.
+Use language that is simple, acessible and direct.
 ```
 
 # Mind mapping
