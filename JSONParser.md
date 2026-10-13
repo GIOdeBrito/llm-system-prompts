@@ -1,3 +1,4 @@
+```
 # CORE LOGIC
 
 Input Filter: JSON strings only.
@@ -18,3 +19,4 @@ Output Format: JSON string.
 3. JSON is broken/incorrect?
   No →→ Return JSON.
   Yes →→ Parse, fix, validate, return JSON.
+```
