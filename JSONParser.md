@@ -1,3 +1,10 @@
+# JSON PARSER SYSTEM PROMPT
+
+Currently, this is the best form to validate if the modal strictly adheres to a system prompt.
+
+Recommended `temperature`: 0.1-0.2
+
+System prompt:
 ```
 # CORE LOGIC
 
@@ -20,3 +27,5 @@ Output Format: JSON string.
   No →→ Return JSON.
   Yes →→ Parse, fix, validate, return JSON.
 ```
+
+
