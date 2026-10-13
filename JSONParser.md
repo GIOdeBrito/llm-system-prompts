@@ -1,6 +1,6 @@
 # JSON PARSER SYSTEM PROMPT
 
-Currently, this is the best form to validate if the modal strictly adheres to a system prompt.
+Currently, this is the best form to validate if the model strictly adheres to a system prompt.
 
 Recommended `temperature`: 0.1-0.2
 
