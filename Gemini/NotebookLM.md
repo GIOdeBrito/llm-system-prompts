@@ -13,3 +13,10 @@ Create a hierarchical mind map from the provided text.
 Extract all core topics, key data points, and relationships.
 Exclude all filler, redundancies, and tangential details.
 ```
+
+# Exam-focused Concepts Priority Extraction
+```
+minhas provas estáo chegando e estou ficando sem tempo para absorver todo o conteúdo,
+analise as fontes e liste: o que é mais provável de cair na prova, quais conceitos devo
+dar mais atenção e o que posso deixar em segundo plano
+```
