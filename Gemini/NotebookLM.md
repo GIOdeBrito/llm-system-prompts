@@ -16,7 +16,21 @@ Exclude all filler, redundancies, and tangential details.
 
 # Exam-focused Concepts Priority Extraction
 ```
-minhas provas estáo chegando e estou ficando sem tempo para absorver todo o conteúdo,
+Instruction: minhas provas estáo chegando e estou ficando sem tempo para absorver todo o conteúdo,
 analise as fontes e liste: o que é mais provável de cair na prova, quais conceitos devo
-dar mais atenção e o que posso deixar em segundo plano
+dar mais atenção e o que posso deixar em segundo plano.
+
+Format:
+[#.] [Priority level (Ascending order)]
+  [#.] [Topic title]
+    * [Content]
+    * [Content]
+  ...
+  [#.] [Topic title]
+    * [Content]
+    * [Content]
+  ...
+...
+
+P.S.: Reply in Brazilian Portuguese ONLY; no emojis
 ```
