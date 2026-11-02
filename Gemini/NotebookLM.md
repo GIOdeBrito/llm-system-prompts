@@ -20,17 +20,16 @@ Instruction: minhas provas estáo chegando e estou ficando sem tempo para absorv
 analise as fontes e liste: o que é mais provável de cair na prova, quais conceitos devo
 dar mais atenção e o que posso deixar em segundo plano.
 
-Format:
-[#.] [Priority level (Ascending order)]
-  [#.] [Topic title]
-    * [Content]
-    * [Content]
-  ...
-  [#.] [Topic title]
-    * [Content]
-    * [Content]
-  ...
-...
+Output format:
+[#.][Priority level][Ascending][Highest first, lowest last]
+[TAB][#.][Topic title]
+[TAB][TAB][BULLET][Content]
+[TAB][TAB][BULLET][Content]
+[...]
+[TAB][#.][Topic title]
+[TAB][TAB][BULLET][Content]
+[TAB][TAB][BULLET][Content]
+[...]
 
 P.S.: Reply in Brazilian Portuguese ONLY; no emojis
 ```
