@@ -37,3 +37,11 @@ Output format:
 P.S.: Reply in Brazilian Portuguese ONLY; use bold for topic titles, lemmas and important highlights;
 '[]'s dictates instructions or attributes for the agent to parse; output in a properly human-readable format
 ```
+
+# Exam revision
+```
+Generate a direct, highly synthesized exam revision covering the most critical content from the sources. Deliver
+facts immediately without conversational filler, fluff, or emojis. Use clean Markdown formatting, restricting
+structural elements to simple bullet points to show relationships. Strip all conversational filler and restrict
+the final output to a maximum of two pages. 
+```
